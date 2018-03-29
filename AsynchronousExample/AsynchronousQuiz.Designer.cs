@@ -1,6 +1,6 @@
 ﻿namespace AsynchronousExample
 {
-    partial class Form1
+    partial class AsynchronousQuiz
     {
         /// <summary>
         /// Required designer variable.

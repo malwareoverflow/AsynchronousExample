@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AsynchronousExample
 {
-    public partial class Form1 : Form
+    public partial class AsynchronousQuiz : Form
     {
-        public Form1()
+        public AsynchronousQuiz()
         {
             InitializeComponent();
         }
