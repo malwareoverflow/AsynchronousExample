@@ -16,5 +16,13 @@ namespace AsynchronousExample
         {
             InitializeComponent();
         }
+
+      
+
+        private void Start_Click(object sender, EventArgs e)
+        {
+            panel1.Hide();
+            Quizonepanel.Show();
+        }
     }
 }
